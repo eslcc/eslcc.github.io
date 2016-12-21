@@ -48,6 +48,12 @@ main {
     width: auto;
 }
 
+hr {
+    width: 15%;
+    margin: 0 auto;
+    border-color: #aaa;
+}
+
 .home-nav .item {
     &:after {
         content: '';
