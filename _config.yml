@@ -26,6 +26,10 @@ collections:
   posts:
     output: true
     permalink: /:year/:slug/
+  projects:
+    output: true
+    permalink: /projects/:path
+
 
 # Build settings
 markdown: kramdown
@@ -35,6 +39,9 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+sass:
+    sass_dir: _sass
 
 kramdown:
     syntax_highlighter: rouge

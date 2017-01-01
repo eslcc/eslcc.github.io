@@ -1,0 +1,13 @@
+---
+layout: page
+title: Projects
+permalink: /projects/
+---
+
+<h1>Projects</h1>
+
+{% for page in site.projects %}
+
+<a href="{{ page.url }}">{% include project_status.html %}</a>
+
+{% endfor %}

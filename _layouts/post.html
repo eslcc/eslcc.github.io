@@ -11,6 +11,9 @@ layout: default
       {% when 3 or 23 %}{{ d }}rd,
       {% else %}{{ d }}th,
       {% endcase %}
-      {{ page.date | date: "%Y" }} by <span class="author">{{ page.author }}</span>. In categories {% for category in page.categories %}<span class="category">{{category}}</span>, {% endfor %}</small>
+      {{ page.date | date: "%Y" }}
+      by
+      <span class="author">{{ page.author }}</span>.
+      In categories {% for category in page.categories %}<span class="category">{{category}}</span>, {% endfor %}</small>
 
 {{ content }}
