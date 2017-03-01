@@ -3,7 +3,7 @@ layout: post
 title:  "Information meeting"
 date:   2017-02-27 20:58:23 +0100
 categories: eslcc update
-author: markspolakovs & vidminasmikučionis
+author: markspolakovs + vidminasmikučionis
 ---
 
 For everyone interested in joining the eslcc, we'll have an information meeting on Thursday 9 March, at 11:10, in room
