@@ -14,4 +14,4 @@ advanced skills with computers to use. The eslcc's mission is as follows:
 If you wish to join the eslcc, please see the [Join Us](/join) page.
 
 If you are from the school and have a project which you would like the assistance of the eslcc with,
- please email `projects [at] eslcc.club`.
+ please email `marks [at] eslcc.club`.
