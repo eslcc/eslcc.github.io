@@ -37,7 +37,7 @@ Project board
 -------------
 The club has a project board, where all of our project ideas are, located in our [GitHub repo](https://github.com/orgs/eslcc/projects/5).  
 eslcc members will all be focused on one project at a time, at the time of writing, this project is [euroschool-app](https://github.com/eslcc/euroschool-app).  
-Those who cannot participate due to lack of knowledge (the learners) need to learn independently, or with the help of mentors (based on preference and availability).  
+Those who cannot participate due to lack of knowledge (the learners) are expected to learn independently, or with the help of mentors (based on preference and availability).  
 From last blog post:
 >It's also worth noting that it's not just the leadership that decides the direction of the club. Any member can propose a project, and we can discuss it
 
