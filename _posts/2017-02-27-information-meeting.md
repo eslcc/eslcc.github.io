@@ -2,7 +2,7 @@
 layout: post
 title:  "Information meeting"
 date:   2017-02-27 20:58:23 +0100
-categories: eslcc update
+categories: info upcoming meeting
 author: markspolakovs + vidminasmikučionis
 ---
 
