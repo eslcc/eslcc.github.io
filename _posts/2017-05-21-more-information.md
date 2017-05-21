@@ -16,7 +16,7 @@ I am not planning to fund this once I am out of school, we will decide on the op
 
 Leadership
 ----------
-@markspolakovs and I have decided that it is optimal for the club to be run by two people at once - a president and his deputy (dual leadership mentioned in the last post).  
+<span class="author">@markspolakovs</span> and I have decided that it is optimal for the club to be run by two people at once - a president and his deputy (dual leadership mentioned in the last post).  
 To maintain progression of the system, the roles will change every year - the president will become a normal member, the deputy will become the new president, and he will choose one member from the club to be the new deputy (this should not be the last president, only if there are no other candidates).  
 Benefits of this system are that the president will always have 1 year of experience from beforehand and will be able to handle the club. He/she will also mentor the new deputy to help him/her out.  
 Right now I am the president and Marks is the deputy.  
