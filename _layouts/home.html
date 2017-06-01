@@ -152,6 +152,28 @@ particlesJS("particles-js", {
   ga('create', 'UA-92787920-1', 'auto');
   ga('send', 'pageview');
 
+</script><script>
+
+
+
+var countClicks = (function(){
+
+		var clickAmount = 0;
+
+		return function(){
+
+		  clickAmount += 1;
+
+		  if(clickAmount == 6) {
+
+		     document.getElementsByClassName('home-logo')[0].src = 'assets/fidget spinner.png';
+
+		  }
+
+		}
+
+		})()
+
 </script>
 </body>
 </html>
