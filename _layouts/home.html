@@ -12,7 +12,7 @@ layout: nonav
 <body>
     <div id="particles-js"></div>
     <main>
-        <img class="home-logo" src="/assets/wordmark-web.png">
+        <img class="home-logo" src="/assets/wordmark-web.png" onclick="countClicks()">
         <h1 class="welcome-header orange-bg">
             Welcome to eslcc - European School Luxembourg Computer Club
         </h1>
@@ -151,6 +151,28 @@ particlesJS("particles-js", {
 
   ga('create', 'UA-92787920-1', 'auto');
   ga('send', 'pageview');
+
+</script><script>
+
+
+
+var countClicks = (function(){
+
+		var clickAmount = 0;
+
+		return function(){
+
+		  clickAmount += 1;
+
+		  if(clickAmount == 7) {
+
+		     document.getElementsByClassName('home-logo')[0].src = 'assets/fidget spinner.png';
+
+		  }
+
+		}
+
+		})()
 
 </script>
 </body>
