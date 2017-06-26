@@ -166,7 +166,9 @@ var countClicks = (function(){
 
 		  if(clickAmount == 3) {
 
-		     document.getElementsByClassName('home-logo')[0].src = 'assets/fidget spinner.png';
+		     var logo = document.getElementsByClassName('home-logo')[0];
+         logo.src = 'assets/fidget spinner.png';
+         logo.classList.add('fidget-spinner');
 
 		  }
 
