@@ -124,11 +124,6 @@ hr {
     }
 }
 
-
-img {
-    max-width: 800px;
-}
-
 @keyframes fidget {
     0% {
         transform: rotate(0)
@@ -140,4 +135,8 @@ img {
 
 .fidget-spinner {
     animation: 2s fidget infinite linear;
+}
+
+img {
+    max-width: 800px;
 }
