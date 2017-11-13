@@ -6,4 +6,4 @@ permalink: /contact
 
 # Contact
 
-Email `vidminas [at] eslcc.club` or `marks [at] eslcc.club`
+Email `marks [at] eslcc.club` or `erik [at] eslcc.club`
